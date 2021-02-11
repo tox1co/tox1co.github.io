@@ -1,0 +1,15 @@
+.jekyll-cache
+/404.html
+/Gemfile
+/Gemfile.lock
+/_config.yml
+/_data
+/_includes
+/_layouts
+/_plugins
+/_posts
+/_tabs
+/app.js
+/assets
+/gulpfile.js
+/index.html
